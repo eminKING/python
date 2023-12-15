@@ -1,3 +1,6 @@
-[servers]
-Worker01
-Worker02
+[balance_server]
+172.31.34.194
+
+[web_servers]
+172.31.47.56
+172.31.39.254
